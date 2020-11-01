@@ -45,3 +45,5 @@ Although this is an individual project, it will be neccessary in this industry t
 - As a user, I should be able to delete a book for any reason. 
 - As a user, I should not be able to view another user's profile. 
 - As a user, I should be able to maneuver through site easily.
+
+## Issues and Resolutions
