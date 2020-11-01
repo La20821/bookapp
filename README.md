@@ -18,7 +18,15 @@ The purpose of this application is to allow readers to create accounts and use t
 
 ### Collaboration
 Although this is an individual project, it will be neccessary in this industry to be able to effetively work collaboratively. It may be often that you need to either search for answers or allow your more expierenced peers to share their knowledge. Prior to beginning my project, I discussed with my instructor my ideas regarding the project set up. It was expressed the importance of building a solid project foundation to build from. That foundation includes a clearly struct ER diagram, straightforward user stories, and a created repository with readme file. 
-## Steps
+## Components
+|**Components**| **Description**|
+| -------------| ---------------|
+| Home Page    | This page will display log in and sign up options|
+| Log In Page  | This page will allow an already signed up reader to login|
+| Sign-Up Page | This page will allow a new reader to create a new account|
+| Library Page | This page will allow readers to view books that other users have read and/or added to the library|
+| Profile Page | This page will display reader/users stored information as far what books they've already saved to their accounts|
+
 ## Technology Used
 * Command Line
 * Visual Studio Code
